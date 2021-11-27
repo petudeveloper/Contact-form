@@ -253,7 +253,7 @@ li {
   background: transparent;
   color: #fff;
   transition: 350ms;
-  cursor: "pointer", sans-serif;
+  cursor: pointer;
 }
 
 .project-stacks li:hover {
