@@ -253,7 +253,7 @@ li {
   background: transparent;
   color: #fff;
   transition: 350ms;
-  cursor: pointer;
+  cursor: "pointer", sans-serif;
 }
 
 .project-stacks li:hover {
@@ -336,7 +336,7 @@ li {
 .footerLegend {
   margin-bottom: 30px;
   font-family: "Inter", sans-serif;
-  color: #172B4D;
+  color: #172b4d;
   font-weight: 700;
   font-size: 3rem;
   line-height: 44px;
@@ -354,7 +354,7 @@ li {
   padding: 10px 25px;
   margin: 10px;
   color: #979493;
-  border-bottom: 1px solid #DBD8D7;
+  border-bottom: 1px solid #dbd8d7;
 }
 
 fieldset {
@@ -366,10 +366,9 @@ fieldset {
   width: 75%;
   height: 114px;
   background-color: #f5eeec;
-  font-family: Inter;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: normal;
-  font-size: 15px;
   line-height: 24px;
   border: none;
   padding: 10px 25px;
@@ -379,11 +378,11 @@ fieldset {
 .footerBtn {
   margin: 20px 0;
   padding: 15px 25px;
-  font-family: Inter;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: bold;
   border: none;
-  background: #FF6B00;
+  background: #ff6b00;
   color: #fff;
   font-size: 1.1rem;
 }
