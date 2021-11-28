@@ -325,3 +325,63 @@ li {
 .skills {
   list-style: inside url("../media/svg/circle.svg");
 }
+
+/* Footer */
+
+.footerText {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+}
+
+.footerForm {
+  padding: 10%;
+  padding-bottom: 20vh;
+  text-align: center;
+}
+
+.footerLegend {
+  margin-bottom: 30px;
+  color: #172b4d;
+  font-weight: 700;
+  font-size: 2rem;
+  line-height: 44px;
+  text-align: center;
+}
+
+.formInput {
+  width: 75%;
+  font-weight: 200;
+  font-size: 1.2rem;
+  line-height: 24px;
+  border: none;
+  padding: 10px 25px;
+  margin: 10px;
+  color: #979493;
+  border-bottom: 1px solid #dbd8d7;
+}
+
+fieldset {
+  border: none;
+}
+
+.formTextArea {
+  font-size: 1.2rem;
+  width: 75%;
+  height: 114px;
+  background-color: #f5eeec;
+  font-weight: normal;
+  line-height: 24px;
+  border: none;
+  padding: 10px 25px;
+  margin: 10px;
+}
+
+.footerBtn {
+  margin: 20px 0;
+  padding: 15px 25px;
+  font-weight: bold;
+  border: none;
+  background: #ff6b00;
+  color: #fff;
+  font-size: 1.1rem;
+}
