@@ -327,6 +327,12 @@ li {
 }
 
 /* Footer */
+
+.footerText {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+}
+
 .footerForm {
   padding: 10%;
   padding-bottom: 20vh;
@@ -335,19 +341,16 @@ li {
 
 .footerLegend {
   margin-bottom: 30px;
-  font-family: "Inter", sans-serif;
   color: #172b4d;
   font-weight: 700;
-  font-size: 3rem;
+  font-size: 2rem;
   line-height: 44px;
   text-align: center;
 }
 
 .formInput {
   width: 75%;
-  font-family: "Inter", sans-serif;
   font-weight: 200;
-  font-style: normal;
   font-size: 1.2rem;
   line-height: 24px;
   border: none;
@@ -366,8 +369,6 @@ fieldset {
   width: 75%;
   height: 114px;
   background-color: #f5eeec;
-  font-family: "Inter", sans-serif;
-  font-style: normal;
   font-weight: normal;
   line-height: 24px;
   border: none;
@@ -378,8 +379,6 @@ fieldset {
 .footerBtn {
   margin: 20px 0;
   padding: 15px 25px;
-  font-family: "Inter", sans-serif;
-  font-style: normal;
   font-weight: bold;
   border: none;
   background: #ff6b00;
