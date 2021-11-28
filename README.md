@@ -1,5 +1,40 @@
-# curriculum-cr-training-contact-form
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This repo host an initial code for the tasks performed during the Code Reviewers training.
+# Portfolio - Desktop and mobile app
 
-Application is based on this [Figma design](https://www.figma.com/file/t3EJUCAEViw3QasuJLPLVT/Microverse-Student-Potfolio-Templates-Main?node-id=1%3A1471).
+> This webpage is made for cr training practice.
+
+![screenshot](./docs/Capture.PNG)
+
+## Built With
+
+- css
+- html
+
+## Authors
+
+👤 **David Alvarez**
+
+- GitHub: [@petudeveloper](https://github.com/petudeveloper)
+- Twitter: [@petudeveloper](https://twitter.com/petudeveloper)
+- LinkedIn: [David Alvarez Mazzo](https://www.linkedin.com/in/davidalvarezmazzo/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
